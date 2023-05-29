@@ -1,0 +1,19 @@
+{
+  "avis" : [
+    {
+      "name" : "Emily Johnson",
+      "note" : "2.8",
+      "description" : "Le savon en question a une texture agréable et mousse généreusement lorsqu'il est utilisé. Cependant, son parfum est un peu trop fort et persiste longtemps sur la peau, ce qui peut être dérangeant pour ceux qui préfèrent des fragrances plus subtiles. Malgré cela, il laisse la peau douce et hydratée après chaque utilisation."
+    },
+    {
+      "name" : "Miguel Hernandez",
+      "note" : "3.5",
+      "description" : "Le savon offre une mousse onctueuse et laisse la peau propre et rafraîchie. Cependant, sa taille est un peu petite par rapport à d'autres savons similaires sur le marché, ce qui en fait une option moins économique. De plus, son emballage plastique est peu écologique, ce qui est un point négatif pour ceux qui cherchent des produits respectueux de l'environnement."
+    },
+    {
+      "name" : " Sophie Lefebvre",
+      "note" : "4.2",
+      "description" : "Ce savon présente une belle gamme d'ingrédients naturels et biologiques, ce qui est très appréciable. Cependant, sa durée de vie est assez courte, car il s'use rapidement lorsqu'il est utilisé régulièrement. En outre, il laisse un léger film résiduel sur la peau après rinçage, ce qui peut être inconfortable pour certains utilisateurs."
+    }
+  ]
+}
