@@ -1,11 +1,11 @@
 {
     "articles" : [
       {
-        "titre-article" : "Calculateur CayoPerico GTA V",
+        "titreArticle" : "Calculateur CayoPerico GTA V",
         "contenue" : "Le calculateur de braquage Cayo Perico est un outil en ligne pour les joueurs de GTA 5 qui souhaitent préparer leur plan d'attaque pour le braquage de l'île de Cayo Perico. Le calculateur prend en compte différents facteurs tels que la configuration de l'île, la sécurité, la distance de déplacement et le nombre de joueurs dans l'équipe pour générer des plans d'attaque efficaces. Les joueurs peuvent également personnaliser leur plan en choisissant différentes options pour les approches, les objets à voler et les chemins à suivre. Le calculateur de braquage Cayo Perico est un outil utile pour les joueurs qui cherchent à maximiser leurs gains tout en minimisant les risques et en s'assurant une issue favorable pour leur équipe."
       },
       {
-        "titre-article" : "Carrousel Photo de Vacances",
+        "titreArticle" : "Carrousel Photo de Vacances",
         "contenue" : "Carrousel en css de mes photos de Vacances dans le Calvados(14) et en Seine-Maritime(76) d'Avril 2023. Du Palais des sports de Caen à la plage de Ouistreham en passant par le cimetière d'Omaha Beach à Colleville Sur Mer et des falaises d'Étretat. "
       }
     ]
